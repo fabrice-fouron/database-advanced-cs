@@ -1,0 +1,119 @@
+{
+    "customer info": [
+        {
+            "id": 1,
+            "name": "Ace",
+            "address": "1 Red Road"
+        },
+        {
+            "id": 2,
+            "name": "Biscuit",
+            "address": "2 Green Drive"
+        },
+        {
+            "id": 3,
+            "name": "Cardie",
+            "address": "3 Blue Avenue"
+        },
+        {
+            "id": 4,
+            "name": "Fabrice",
+            "address": "1243"
+        },
+        {
+            "id": 5,
+            "name": "Fabrice",
+            "address": "3"
+        },
+        {
+            "id": 6,
+            "name": "fabrice",
+            "address": "123"
+        },
+        {
+            "id": 7,
+            "name": "Fabrice",
+            "address": "123"
+        }
+    ],
+    "order info": [
+        {
+            "id": 1,
+            "product": "Apple",
+            "quantity": 3,
+            "customerId": 1
+        },
+        {
+            "id": 2,
+            "product": "Banana",
+            "quantity": 1,
+            "customerId": 1
+        },
+        {
+            "id": 3,
+            "product": "Apple",
+            "quantity": 2,
+            "customerId": 2
+        },
+        {
+            "id": 4,
+            "product": "Orange",
+            "quantity": 5,
+            "customerId": 1
+        },
+        {
+            "id": 5,
+            "product": "Pineapple",
+            "quantity": 10,
+            "customerId": 2
+        },
+        {
+            "id": 6,
+            "product": [
+                "Banana",
+                "Apple",
+                "Pineapple"
+            ],
+            "quantity": [
+                2,
+                4,
+                6
+            ],
+            "customerId": 6
+        },
+        {
+            "id": 7,
+            "product": [
+                "Banana",
+                "Apple"
+            ],
+            "quantity": [
+                1,
+                3
+            ],
+            "customerId": 7
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Apple",
+            "cost": 1
+        },
+        {
+            "id": 2,
+            "name": "Banana",
+            "cost": 1.5
+        },
+        {
+            "id": 3,
+            "name": "Orange",
+            "cost": 2
+        },
+        {
+            "id": 4,
+            "name": "Pineapple",
+            "cost": 5
+        }
+    ]
+}
